@@ -1,1 +1,1 @@
-Write-Host $env:PIPELINE_WORKSPACE
+Write-Output $env:PIPELINE_WORKSPACE
