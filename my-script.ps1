@@ -1,0 +1,1 @@
+Write-Host $env:PIPELINE_WORKSPACE
