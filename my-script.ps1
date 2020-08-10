@@ -1,3 +1,3 @@
-Write-Output $env:PIPELINE_WORKSPACE
-Write-Output $env:PIPELINE_WORKSPACE
-Write-Host $env:PIPELINE_WORKSPACE
+Write-Output "here is your pipeline workspace" $env:PIPELINE_WORKSPACE
+Write-Output "and again" $env:PIPELINE_WORKSPACE
+Write-Host "and again" $env:PIPELINE_WORKSPACE
